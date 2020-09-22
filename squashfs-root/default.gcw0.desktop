@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Abre SimpleMenu
+Comment=Abrir SimpleMenu
+Exec=script.sh
+Icon=simplemenu
+Categories=emulators;
+Terminal=false
+
