@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
-Name=Abre SimpleMenu
-Comment=Abrir SimpleMenu
+Name=SimpleMenu
+Comment=Launch SimpleMenu
 Exec=script.sh
 Icon=simplemenu
 Categories=emulators;
